@@ -2,7 +2,6 @@
 
 Macblog is an web apps for engineer to create blog easily.
 
-ADITYA GANTENG
 
 Things you may want to cover:
 
